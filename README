@@ -1,4 +1,10 @@
+This is a fork of the open source code to 10gen's app server "Babble", which
+was their original product alongside MongoDB.
 
+I (Jim Menard) worked on the Ruby language implementation. See
+[src/main/ed/lang/ruby].
+
+----
 
 10gen application server (ed)
 
